@@ -1,5 +1,12 @@
 # terraform-provider-circleci
 
+Forked from [gitter-badger/terraform-provider-circleci](https://github.com/gitter-badger/terraform-provider-circleci)
+which was a fork of
+[thiagoalessio/terraform-provider-circleci](https://github.com/thiagoalessio/terraform-provider-circleci). The latter no
+longer exists.
+
+For now, this fork exists simply to preserve the source code.
+
 [Terraform][] provider for [CircleCI][].
 
 [![Codacy][codacy_badge]][codacy]
