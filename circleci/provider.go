@@ -25,7 +25,6 @@ func Provider() terraform.ResourceProvider {
 
 		ResourcesMap: map[string]*schema.Resource{
 			"circleci_project": resourceCircleciProject(),
-			"circleci_envvar":  resourceCircleciEnvvar(),
 		},
 
 		DataSourcesMap: map[string]*schema.Resource{},
