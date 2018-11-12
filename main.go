@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/thiagoalessio/terraform-provider-circleci/circleci"
+	"github.com/timberio/terraform-provider-circleci/circleci"
 )
 
 func main() {
